@@ -3,17 +3,14 @@
 
 ### Hi there 👋
 
-<!--
-**Bopiotr/Bopiotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm computer science student at the University of Rzeszów, I have been working
+as a web developer for over a year where I am responsible for the development
+of the fronted part of the application. I have extensive knowledge of the Angular
+framework and associated libraries such as rxJS and ngRx. In addition, I am
+interested in data mining and develop my knowledge about nodeJS
 
-Here are some ideas to get you started:
+### Side project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on clustering algorithm inspired by k-means method using TypeScript language.
+
+![](https://komarev.com/ghpvc/?username=bopiotr&color=blue)
